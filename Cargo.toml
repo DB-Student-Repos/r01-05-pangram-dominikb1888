@@ -2,3 +2,10 @@
 edition = "2021"
 name = "pangram"
 version = "0.0.0"
+
+[dependencies]
+criterion = "0.5.1"
+
+[[bench]]
+name = "pangram_benchmark"
+harness = false
