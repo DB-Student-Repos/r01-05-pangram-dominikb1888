@@ -1,0 +1,10 @@
+/Users/dominikb1888/Library/CloudStorage/OneDrive-th-deg.de/Teaching/24S/SWEN/s01/exercises/r01-05-pangram-dominikb1888/target/release/deps/libwalkdir-63834e717e2cd61f.rmeta: /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/lib.rs /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/dent.rs /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/error.rs /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/util.rs
+
+/Users/dominikb1888/Library/CloudStorage/OneDrive-th-deg.de/Teaching/24S/SWEN/s01/exercises/r01-05-pangram-dominikb1888/target/release/deps/libwalkdir-63834e717e2cd61f.rlib: /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/lib.rs /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/dent.rs /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/error.rs /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/util.rs
+
+/Users/dominikb1888/Library/CloudStorage/OneDrive-th-deg.de/Teaching/24S/SWEN/s01/exercises/r01-05-pangram-dominikb1888/target/release/deps/walkdir-63834e717e2cd61f.d: /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/lib.rs /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/dent.rs /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/error.rs /Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/util.rs
+
+/Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/lib.rs:
+/Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/dent.rs:
+/Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/error.rs:
+/Users/dominikb1888/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.4.0/src/util.rs:
